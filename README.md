@@ -9,6 +9,15 @@
 - 아래의 예시를 참고하여 할로윈과 관계된 커밋/코드리뷰 등을 수행
   - 예1) 변수/함수명을 halloween 과 관련되게 네이밍
   - 예2) halloween과 관련된 함수 개발
+      ```python
+      import random
+
+      # Returns Trick or Treat
+      def trcik_or_treat():
+          if random.random() < .5:
+              return 'trick'
+          return 'treat'
+      ```
   - 예3) halloween과 관련된 데이터 수집 및 분석
   - 예4) halloween 이미지 분석
   - 예5) [makemeazombie](https://makemeazombie.com/) w/StyleGAN2
