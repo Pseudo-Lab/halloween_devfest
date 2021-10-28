@@ -2,14 +2,12 @@
 할로윈을 맞이하여 가짜연구소에서 할로윈 개발 축제를 엽니다!!! 일주일간 할로윈을 컨셉으로 1일1커밋하는 것으로 참가하실 수 있습니다! 참가하신 내용을 바탕으로 하나의 깃헙 리포지토리를 형성하게 되며, 가장 활발하게 그리고 기발하게 커밋하신 분들에게 소정의 상품을 드리도록 하겠습니다! 그럼 모두 happy halloween!
 
 <p align="center">
-  <img src="images/pseudolab_halloween_dev_fest-001.png" width="256">  
-</p>
-
-<p align="center">
+  <img src="images/pseudolab_halloween_dev_fest-001.png" width="256">
+  &nbsp;&nbsp;&nbsp;
   <img src='2021/jinhwankim/hexSticker.png' width = '256'>
 </p>
 
-This hexSticker was generated with :two_hearts: by [polaroid](http://github.com/jhk0530/polaroid)
+<p align="right">This hexSticker was generated with :two_hearts: by [polaroid](http://github.com/jhk0530/polaroid)</p>
 
 ## 참가 방법
 - 가짜연구소 github의 halloween-devfest 리포지토리에 커밋!
