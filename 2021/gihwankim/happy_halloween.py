@@ -66,7 +66,7 @@ def halloween_messages():
     font=('bold',50,'underline')
     move(-200,200)
     t.color(color)
-    t.write('PsedoLab',font=font)
+    t.write('PseudoLab',font=font)
     move(-200,-200)
     t.write('Happy Halloween!!',font=font)
     
